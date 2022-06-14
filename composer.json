@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~4.2.2",
+        "php": ">=8.0.0",
+        "guzzlehttp/guzzle": "~7.4.3",
         "adammbalogh/key-value-store": "~0.5.1"
     },
     "require-dev": {
