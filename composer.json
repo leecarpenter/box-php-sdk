@@ -1,5 +1,5 @@
 {
-    "name": "adammbalogh/box-sdk",
+    "name": "leecarpenter/box-sdk",
     "description": "Unofficial Box.com Php Sdk",
     "keywords": ["box", "box.com", "sdk"],
     "license": "MIT",
